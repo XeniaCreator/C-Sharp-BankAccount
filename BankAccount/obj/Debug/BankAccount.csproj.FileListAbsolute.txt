@@ -1,0 +1,14 @@
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.Properties.Resources.resources
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.GenerateResource.Cache
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.LogIn.resources
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.Profile.resources
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.Regist.resources
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.AccountHistory.resources
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.OpenDepositAccount.resources
+D:\FL\Университет\ІІІ курс\ООП (курсовая)\BankAccount\BankAccount\obj\Debug\BankAccount.OpenCreditAccount.resources

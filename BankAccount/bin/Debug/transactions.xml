@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ArrayOfTransaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transaction>
+    <Recipient xsi:type="CreditAccount">
+      <Date>2019-12-09T13:24:01.6959939+02:00</Date>
+      <Sum>2000</Sum>
+      <Percentage>14</Percentage>
+      <Id>184467440715637465683</Id>
+      <EndSum>3420</EndSum>
+      <IdAndSum>184467440715637465683	  2000у.е.</IdAndSum>
+    </Recipient>
+    <Sum>3000</Sum>
+    <Date>2019-12-09T13:24:01.7030145+02:00</Date>
+    <Message>Взят кредит</Message>
+  </Transaction>
+  <Transaction>
+    <Sender xsi:type="CreditAccount">
+      <Date>2019-12-09T13:24:01.6959939+02:00</Date>
+      <Sum>2000</Sum>
+      <Percentage>14</Percentage>
+      <Id>184467440715637465683</Id>
+      <EndSum>3420</EndSum>
+      <IdAndSum>184467440715637465683	  2000у.е.</IdAndSum>
+    </Sender>
+    <Recipient xsi:type="DepositAccount">
+      <Date>2020-12-09T13:25:35.5338085+02:00</Date>
+      <Sum>1140</Sum>
+      <Percentage>14</Percentage>
+      <Id>184467440715637465684</Id>
+      <EndSum>0</EndSum>
+      <IdAndSum>184467440715637465684	  1140у.е.</IdAndSum>
+    </Recipient>
+    <Sum>1000</Sum>
+    <Date>2019-12-09T13:25:35.5408228+02:00</Date>
+    <Message>Открыт депозит</Message>
+  </Transaction>
+</ArrayOfTransaction>

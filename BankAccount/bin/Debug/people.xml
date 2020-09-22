@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>18446744071563746568</Id>
+    <Name>Иван</Name>
+    <Surname>Иванов</Surname>
+    <Email>ii@gmail.com</Email>
+    <Password>1111</Password>
+    <ConfirmPassword>1111</ConfirmPassword>
+    <Phone>1111</Phone>
+    <Date>2019-12-09T13:22:12.1184692+02:00</Date>
+    <accounts>
+      <Account xsi:type="DemandAccount">
+        <Date>2019-12-09T13:22:12.1483291+02:00</Date>
+        <Sum>0</Sum>
+        <Percentage>0</Percentage>
+        <Id>184467440715637465681</Id>
+        <EndSum>0</EndSum>
+        <IdAndSum>184467440715637465681	  0у.е.</IdAndSum>
+      </Account>
+      <Account xsi:type="DemandAccount">
+        <Date>2019-12-09T13:23:29.6538976+02:00</Date>
+        <Sum>0</Sum>
+        <Percentage>0</Percentage>
+        <Id>184467440715637465682</Id>
+        <EndSum>0</EndSum>
+        <IdAndSum>184467440715637465682	  0у.е.</IdAndSum>
+      </Account>
+      <Account xsi:type="CreditAccount">
+        <Date>2019-12-09T13:24:01.6959939+02:00</Date>
+        <Sum>2000</Sum>
+        <Percentage>14</Percentage>
+        <Id>184467440715637465683</Id>
+        <EndSum>3420</EndSum>
+        <IdAndSum>184467440715637465683	  2000у.е.</IdAndSum>
+      </Account>
+      <Account xsi:type="DepositAccount">
+        <Date>2020-12-09T13:25:35.5338085+02:00</Date>
+        <Sum>1140</Sum>
+        <Percentage>14</Percentage>
+        <Id>184467440715637465684</Id>
+        <EndSum>0</EndSum>
+        <IdAndSum>184467440715637465684	  1140у.е.</IdAndSum>
+      </Account>
+    </accounts>
+  </User>
+</ArrayOfUser>
